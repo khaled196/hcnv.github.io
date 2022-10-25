@@ -17,7 +17,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
+layout: hcnv_list
 title: hcnv_tools_list
 email: k.jumah@bradford.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
@@ -25,12 +25,10 @@ description: >- # this means to ignore newlines until "baseurl:"
 domain: khaled196/hcnv.github.io
 baseurl: "/khaled196/hcnv.github.io.git" # the subpath of your site, e.g. /blog
 url: "https://github.com/khaled196/hcnv.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ph_khaled_jumah
 github_username: khaled196
 
 # Build settings
 theme: minima
-layout: hcnv_list
 plugins:
   - jekyll-feed
 
