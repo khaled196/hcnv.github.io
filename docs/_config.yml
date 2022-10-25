@@ -24,21 +24,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   The site represents the available hCNVs tools that detect CNVs in WES datasets.
 domain: khaled196/hcnv.github.io
 baseurl: "/khaled196/hcnv.github.io.git" # the subpath of your site, e.g. /blog
-<<<<<<< HEAD
-<<<<<<< HEAD
 url: "https://github.com/khaled196/hcnv.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ph_khaled_jumah
-github_username:  khaled196
-=======
-url: "https://hcnv.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
->>>>>>> 8531510209af26dcd290a972014f27a530f42271
-=======
-url: "https://github.com/khaled196/hcnv.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ph_khaled_jumah
-github_username:  khaled196
->>>>>>> 8cf7ad88f25014cf9af56e1923a92a222a199bc5
+github_username: khaled196
 
 # Build settings
 theme: minima
