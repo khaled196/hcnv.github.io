@@ -30,7 +30,7 @@ github_username: khaled196
 
 # Build settings
 theme: minima
-layout: hcnv_list.html
+layout: hcnv_list
 plugins:
   - jekyll-feed
 
