@@ -14,10 +14,9 @@ tutorials:
   
 defaults:
   -
-   tools:
-       tools:
-      path: "pages"
-      type: "pages"
+    scope:
+      path: "tools"
+      type: "tools"
     values:
       permalink: /:basename
       layout: "default"
