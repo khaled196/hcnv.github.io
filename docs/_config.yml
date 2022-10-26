@@ -6,20 +6,6 @@ domain: /users/khaled196/projects/1
 baseurl: "/users/khaled196/projects/1" # the subpath of your site, e.g. /blog
 url: "https://github.com" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Build settings
-markdown: kramdown
-sass:
-  sass_dir: assets/css
-  style: compressed
-highlighter: rouge
+remote_theme: pages-themes/architect@v0.2.0
 plugins:
- - jekyll-redirect-from
- - jekyll-sitemap
- - jekyll-gist
- - jekyll-relative-links
-
-# page 
-tools_dir: tools
-tools:
-  output: true
-  permalink: /:tutorial/:path
+- jekyll-remote-theme
