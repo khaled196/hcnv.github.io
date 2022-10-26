@@ -3,33 +3,9 @@ tutorial.html
 <!DOCTYPE html>
 <html>
   <head>
-    <script type="application/ld+json">
-    {
-     "@context": "https://schema.org",
-     "@type": "BreadcrumbList",
-     "itemListElement":
-     [
-      {
-       "@type": "ListItem",
-       "position": 1,
-       "item":
-       {
-        "@id": "https://example.com/dresses",
-        "name": "Dresses"
-        }
-      },
-      {
-       "@type": "ListItem",
-      "position": 2,
-      "item":
-       {
-         "@id": "https://example.com/dresses/real",
-         "name": "Real Dresses"
-       }
-      }
-     ]
-    }
-    </script>
+      <script type="application/ld+json">
+         {{ page.bioschemas | jsonify }}
+      </script>
   </head>
   <body>
      {{ content }}
