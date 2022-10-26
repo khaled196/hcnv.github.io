@@ -11,3 +11,13 @@ tools_dir: tools
 tutorials:
   output: true
   permalink: /:tutorial/:path
+  
+defaults:
+  -
+   tools:
+       tools:
+      path: "pages"
+      type: "pages"
+    values:
+      permalink: /:basename
+      layout: "default"
