@@ -7,3 +7,4 @@
 #
 layout: home
 ---
+The test is to make sure that I am smart
