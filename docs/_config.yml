@@ -3,8 +3,9 @@ author: Khaled Jum'ah
   name: Khaled196
   email: k.jumah@bradford.ac.uk
 description: > # this means to ignore newlines until "show_excerpts:"
-  THe site is to fulfill one of ELIXIR UK objectives for hCNV implementation
-  study by listing the tools that use WES dataets as inputs for hCNVs detection. 
+  THe site is to fulfill one of ELIXIR UK objectives for hCNV 
+  implementation study by listing the tools that use WES 
+  dataets as inputs for hCNVs detection. 
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
