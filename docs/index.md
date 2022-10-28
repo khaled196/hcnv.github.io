@@ -7,4 +7,6 @@
 #
 layout: home
 ---
-The test is to make sure that I am smart
+The site includes the link to the list of the tools that use WES datasets for hCNVs detection.
+
+The list has information for the tools' names, sources, CONDA source and Galaxy toolshed.
