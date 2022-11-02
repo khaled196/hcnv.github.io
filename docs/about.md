@@ -8,7 +8,7 @@ This site shows the milestones, objectives and deliverables from the ELIXIR UK n
 
 for more infomation about the implementation studes refare to the following links 
 
-*[2021-hCNVbundles](https://docs.google.com/spreadsheets/d/1NIs3Zta2aYLzJtIaKOjzMQA0pKUUrzTU1kkuYxwe4eY/edit#gid=1447926157)
-*[Project plan](https://drive.google.com/file/d/1AjzK3QeDRhWWlwTCaUkGTqZdQID4ijO6/view)
-*[ELIXIR_hCNV](https://elixir-europe.org/communities/hcnv)
+1. [2021-hCNVbundles](https://docs.google.com/spreadsheets/d/1NIs3Zta2aYLzJtIaKOjzMQA0pKUUrzTU1kkuYxwe4eY/edit#gid=1447926157)
+2. [Project plan](https://drive.google.com/file/d/1AjzK3QeDRhWWlwTCaUkGTqZdQID4ijO6/view)
+3. [ELIXIR_hCNV](https://elixir-europe.org/communities/hcnv)
  
