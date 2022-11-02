@@ -7,6 +7,5 @@
 #
 layout: home
 ---
-The site includes the link to the list of the tools that use WES datasets for hCNVs detection.
 
-The list has information for the tools' names, sources, CONDA source and Galaxy toolshed.
+The site was created to gather information about the ELIXIR hCNVs implementation studies and to share the ELIXIR UK projects' milestones, objectives and deliveries. 
